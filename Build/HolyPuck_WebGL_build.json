@@ -1,0 +1,16 @@
+{
+"companyName": "HellWeb Studios",
+"productName": "Holy Puck",
+"productVersion": "2.0",
+"dataUrl": "HolyPuck_WebGL_build.data.unityweb",
+"wasmCodeUrl": "HolyPuck_WebGL_build.wasm.code.unityweb",
+"wasmFrameworkUrl": "HolyPuck_WebGL_build.wasm.framework.unityweb",
+"graphicsAPI": ["WebGL 2.0","WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Dark",
+"backgroundColor": "#22395E",
+"cacheControl": {"default": "must-revalidate"},
+"developmentBuild": false,
+"multithreading": false,
+"unityVersion": "2019.2.10f1"
+}
